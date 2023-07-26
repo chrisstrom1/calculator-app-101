@@ -1,5 +1,24 @@
 body {
   margin: 20% auto;
-  width: 50%;
-  height: 75%;
+  width: 20%;
+  height: 200%;
+  display:flex; content: center;
+  border:0;
 }
+
+div
+{
+  margin: 0.5em;
+}
+ 
+  form {
+    max-width: 500px;
+    border: 25px solid grey;
+    padding: 25px;
+    margin: 25px;
+    
+  }
+
+
+
+
